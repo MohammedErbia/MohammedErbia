@@ -1,67 +1,60 @@
-# Hi there 👋 I'm Mohammed Erbaa
+# Hi 👋 I'm Mohammed Erbaa
 
-🚀 **Flutter Mobile Engineer** passionate about building real-world tech solutions.
+📱 **Mobile Application Engineer (Flutter)** passionate about building high-quality, scalable mobile applications.
 
-I enjoy creating **mobile apps, automation systems, and AI-powered workflows** that solve practical problems.
-My work often combines **Flutter, APIs, Python, networking systems, and AI tools**.
-
----
-
-## 🛠 Tech Stack
-
-**Mobile Development**
-
-* Flutter
-* Dart
-* REST APIs
-* Firebase
-
-**Automation & Backend**
-
-* Python
-* n8n
-* API Integrations
-* Data Automation
-
-**Networking**
-
-* MikroTik
-* Network Automation
-* Hotspot Systems
-
-**Other Tools**
-
-* Git & GitHub
-* Google Sheets Automation
-* Linux / CLI
+I focus on creating **clean, performant, and user-centered mobile apps** using Flutter. I enjoy transforming ideas into real products and continuously exploring new technologies in mobile development.
 
 ---
 
-## 📱 What I'm Working On
+## 📱 Mobile Development
 
-* Building **mobile applications with Flutter**
-* Developing **automation workflows with AI**
-* Creating **tools for networking and system automation**
-* Exploring **AI integrations and practical tech solutions**
+* **Flutter**
+* **Dart**
+* Cross-platform Mobile Apps (iOS & Android)
+* REST API Integration
+* App Architecture & Clean Code
+* UI/UX Implementation
+* State Management
 
 ---
 
-## 🌍 Projects & Interests
+## 🛠 Additional Technical Skills
 
-* Mobile App Development
-* AI Automation
-* Networking Systems
-* Open Source Projects
-* Tech Communities
+* **Backend & Automation:** Python, APIs, Workflow Automation
+* **Networking Systems:** MikroTik, Network Integration
+* **Tools:** Git, GitHub, Linux, Google Sheets Automation
+
+---
+
+## 🚀 What I Enjoy Building
+
+* Scalable **Flutter mobile applications**
+* Apps that integrate with **APIs and modern services**
+* Tools that improve **productivity and automation**
+* Technology solutions that solve **real-world problems**
+
+---
+
+## 🌱 Currently Exploring
+
+* Advanced Flutter architecture
+* AI integrations in mobile apps
+* Building smarter automation systems
 
 ---
 
 ## 🤝 Let's Connect
 
-If you're interested in **mobile apps, AI tools, or automation**, feel free to connect or collaborate.
+Always open to collaborating on **mobile applications, innovative tools, and impactful projects**.
 
-⭐ Always building. Always learning.
+⭐ *Building meaningful mobile experiences.*
 
+
+## 📊 GitHub Stats
+
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 <!--
 **MohammedErbia/MohammedErbia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
